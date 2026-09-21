@@ -1,4 +1,4 @@
-"Linux fundamentals" 
+"Linux for DevOps" 
 "Docker" 
 "Kubernetes" 
 "Kubernetes" 
